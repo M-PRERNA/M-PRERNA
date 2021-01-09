@@ -18,8 +18,10 @@
 <a href="https://www.hackerrank.com/mprerna802">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
-![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=M-PRERNA&show_icons=true&hide_border=true)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=m-prerna&show_icons=true&hide_border=true&theme=highcontrast)
+
 
 
 <!--
