@@ -19,6 +19,8 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
 
+<br>
+
 ## About me 
 * 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
 * :woman: I'm passionate about Machine Learning, Deep learning and AI. 
