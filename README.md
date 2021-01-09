@@ -19,8 +19,19 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
 
+## About me 
+* 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
+* :woman: I'm passionate about Machine Learning, Deep learning and AI. 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-prerna&layout=compact?hide=jupyter%20notebook)](https://github.com/m-prernagithub-readme-stats)
+<br />
+
+<div>
+   
 ![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=m-prerna&show_icons=true&hide_border=true&theme=highcontrast)
+
+</div>
 
 
 
