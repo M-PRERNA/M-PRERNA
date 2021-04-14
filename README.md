@@ -24,7 +24,7 @@
 ## About me 
 * 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
 * :woman: I'm passionate about Machine Learning, Deep learning and AI. 
-
+* portfolio https://m-prerna.github.io/myportfolio/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-prerna&layout=compact?hide=jupyter%20notebook)](https://github.com/m-prernagithub-readme-stats)
 <br />
