@@ -1,4 +1,7 @@
+<img src="https://github.com/M-PRERNA/M-PRERNA/blob/main/%23thegoldenink.png" align="center">
+
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna!](https://github.com/M-PRERNA)
+## Find Me On
 
 <a href="https://www.linkedin.com/in/m-prerna/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -21,10 +24,12 @@
 
 <br>
 
-## About me 
-* 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
-* :woman: I'm passionate about Machine Learning, Deep learning and AI. 
-* portfolio https://m-prerna.github.io/myportfolio/
+## About Me 
+* 🌱 I’m currently a student of Computer Science and Information Technology 
+* 😄 Pronouns: She/Her
+* 💬 Ask me about Machine Learning, Deep learning and AI. 
+* <a href="https://m-prerna.github.io/myportfolio/"> 📫 How to reach me</a>
+* ⚡ Fun fact: I am a content writer and write Terrific Fictional Content
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-prerna&layout=compact?hide=jupyter%20notebook)](https://github.com/m-prernagithub-readme-stats)
 <br />
