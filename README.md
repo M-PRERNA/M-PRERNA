@@ -1,4 +1,4 @@
-<img src="https://github.com/M-PRERNA/M-PRERNA/blob/main/%23thegoldenink.png" align="center">
+<img src="https://github.com/M-PRERNA/M-PRERNA/blob/main/Linkedin%20%23thegoldenink.png" align="center">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna!](https://github.com/M-PRERNA)
 ## Find Me On
