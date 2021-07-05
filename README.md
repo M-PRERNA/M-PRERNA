@@ -12,16 +12,16 @@
   <img align="left" width="100px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&Color=white&style=flat-square"  />
 </a>
 <a href="https://twitter.com/mprerna802">
-  <img align="left" width="100px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=black&style=flat-square" />
+  <img align="left" width="90px" src="https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter&Color=black&style=flat-square" />
 </a>
 <a href="mailto:mprerna802@gmail.com">
-  <img align="left" width="90px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=black&style=flat-square" /></a>
+  <img align="left" width="80px" src="https://img.shields.io/badge/-Gmail-FFFFFF?logo=gmail&Color=black&style=flat-square" /></a>
 
 <a href="https://dev.to/mprerna">
  <img align="left" width="80px" src="https://img.shields.io/badge/-DEV-000000?logo=dev.to&Color=black&style=flat-square" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mprerna802/profile">
-  <img align="left" width="80px" src="https://img.shields.io/badge/-GFG-000000?logo=geeksforgeeks&Color=black&style=flat-square" />
+  <img align="left" width="80px" src="https://img.shields.io/badge/-GFG-FFFFFF?logo=geeksforgeeks&Color=black&style=flat-square" />
 </a>
 <a href="https://www.hackerrank.com/mprerna802">
   <img align="left" width="150px" src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&Color=black&style=flat-square" />
