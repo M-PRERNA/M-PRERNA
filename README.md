@@ -1,13 +1,21 @@
 <img src="https://github.com/M-PRERNA/M-PRERNA/blob/main/Linkedin%20%23thegoldenink.png" align="center">
 
+
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna!](https://github.com/M-PRERNA)
 
-![Profile views](https://gpvc.arturio.dev/M-PRERNA)
 
+
+![Profile views](https://gpvc.arturio.dev/M-PRERNA)  
+
+
+
+  
 
 
 # 🚩 Find Me On
 
+
+ <span>                                                                                                            
 <a href="https://www.linkedin.com/in/m-prerna/">
   <img align="left" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square"  />
 </a>
@@ -26,17 +34,28 @@
 <a href="https://www.hackerrank.com/mprerna802">
   <img align="left" width="150px" src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&Color=black&style=flat-square" />
 </a>
-
+</span>
 <br>
 
 ## ✔️ About Me 
-* 🌱 I’m currently a student of Computer Science and Information Technology 
-* ♀️ Pronouns: She/Her
-* 💬 Ask me about Machine Learning, Deep learning and AI. 
-* <a href="https://m-prerna.github.io/myportfolio/"> 📫 Contact me here </a>
-* ⚡ Fun fact: I am a content writer and write Terrific Fictional Content
 
+<span>
+<img src="https://github.com/M-PRERNA/M-PRERNA/blob/main/girl_drinking_coffee.gif" align = "right" width="200px" height=200px">
+</span>
+                                                                                                              
+<span>
+<div>
+<ul><li>🌱 I’m currently a student of Computer Science and Information Technology </li>
+<li>♀️ Pronouns: She/Her</li>
+<li> 💬 Ask me about Machine Learning, Deep learning and AI. </li>
+<li> <a href="https://m-prerna.github.io/myportfolio/"> 📫 Contact me here </a> </li>
+<li>⚡ Fun fact: I am a content writer and write Terrific Fictional Content</li></ul>
+                                                      </div>
+</span>
 
+<br>
+<br>
+                                                      
 ### Languages I know
 
 <img align="left" width="150px" src="https://img.shields.io/badge/-Python%203.8-3776AB?logo=Python&logoColor=white&style=plastic" />
