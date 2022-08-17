@@ -58,19 +58,27 @@
                                                       
 ### Languages I know
 
-<img align="left" width="150px" src="https://img.shields.io/badge/-Python%203.8-3776AB?logo=Python&logoColor=white&style=plastic" />
+<img align="left" width="150px" src="https://img.shields.io/badge/-Python%203.9-3776AB?logo=Python&logoColor=white&style=plastic" />
 <img align="left" width="90px" src="https://img.shields.io/badge/-c%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
 <img align="left" width="58px" src="https://img.shields.io/badge/-c-000000?logo=c&Color=white&style=plastic" />
 <img align="left" width="120px" src="https://img.shields.io/badge/-HTML5-13324B?logo=html5&Color=white&style=plastic" />
 <img align="left" width="90px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&Color=white&style=plastic" />
-<img align="center" width="120px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
+<img align="center" width="120px" height ="30px" src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&Color=white&style=plastic" />
+
 
 <br>
 
 ### Frameworks I study
 
 <img align="left" width="160px" src="https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow&Color=white&style=plastic" />
-<img align="center" width="100px" src="https://img.shields.io/badge/-Django-092E20?logo=django&Color=white&style=plastic" />
+<img align="left" width="100px" src="https://img.shields.io/badge/-Django-092E20?logo=django&Color=white&style=plastic" />
+<img align="left" width="100px" src="https://img.shields.io/badge/-Express-092E20?logo=express&Color=white&style=plastic" /> 
+<img align="left" width="100px" src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white&style=plastic" />
+ <img align="left" width="100px" src="https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white&style=plastic" />
+ <img align="left" width="100px" src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white&style=plastic" />
+ 
+ 
+
 
 <br>
 
@@ -85,6 +93,14 @@
 <img align="left" width="100px" src="https://img.shields.io/badge/-Figma-000000?logo=figma&Color=white&style=plastic" />
 <img align="left" width="100px" src="https://img.shields.io/badge/-Replit-000000?logo=replit&Color=white&style=plastic" />
 <img align="center" width="120px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
+
+<br>
+
+### Databases I have worked with:
+
+<img align="left" width="100px" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=plastic">
+<img align="left" width="100px" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=plastic">
+<img align="left" width="150px" height="30px" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white&style=plastic">
 
 <br>
 
