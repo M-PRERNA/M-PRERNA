@@ -39,7 +39,6 @@
                                                                                                               
 <span>
 <div>
-<ul><li>🌱 I’m currently a student of Computer Science and Information Technology </li>
 <li>♀️ Pronouns: She/Her</li>
 <li> 💬 Ask me about Machine Learning, Deep learning and AI. </li>
 <li> <a href="https://m-prerna.github.io/myportfolio/"> 📫 Contact me here </a> </li>
