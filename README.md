@@ -42,7 +42,7 @@
 <li>♀️ Pronouns: She/Her</li>
 <li> 💬 Ask me about Machine Learning, Deep learning and AI. </li>
 <li> <a href="https://m-prerna.github.io/myportfolio/"> 📫 Contact me here </a> </li>
-<li>⚡ Fun fact: I am a content writer and write Terrific Fictional Content</li></ul>
+<li>⚡ Fun fact: I am a also a content writer and write Terrific Fictional Content</li></ul>
                                                       </div>
 </span>
 
